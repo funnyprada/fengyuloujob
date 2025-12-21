@@ -252,12 +252,6 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
       "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01xwoktH1GnzgVbmSzj_!!2216999100668.jpg",
       "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01gjsKTu1GnzgQwyp5P_!!2216999100668.png",
       "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01EN8Svo1GnzgRQDGEI_!!2216999100668.png",
-      "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN017JFlf21GnzgRwXvB6_!!2216999100668.png",
-      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN013R7xjf1GnzgQx81NR_!!2216999100668.png",
-      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01LG9ZIz1GnzgRe47n6_!!2216999100668.png",
-      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01uW2Txs1GnzgRQIADz_!!2216999100668.jpg",
-      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01nOPSfT1GnzgSfTtYC_!!2216999100668.jpg",
-      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01PWytey1GnzgRe22j8_!!2216999100668.jpg",
     ]
   },
   {
