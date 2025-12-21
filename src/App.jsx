@@ -119,6 +119,32 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     ]
   },
   {
+    id: 12,
+    title: "SHUKU 24FW&25SS",
+    category: "企划拍摄",
+    year: "2025",
+    span: 2,
+    image: "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01vZ5vv61GnzgVefde3_!!2216999100668.jpg",
+    description: "Minimalist art direction for a high-end furniture brand, focusing on materials and light.",
+    detailImages: [
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01eORfVD1GnzgVKV7gT_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01q1NavL1GnzgWikMJ6_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01vZ5vv61GnzgVefde3_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01jzBW1Y1GnzgQNjii8_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01BoOaDQ1GnzgVSDRih_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01ERaIRx1GnzgUgP6ql_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01xSEUrA1GnzgV3t7aY_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01C5IQXc1GnzgVduidZ_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01ZveBNu1GnzgUzAUN1_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01wARqSj1GnzgVe8Cvo_!!2216999100668.png",
+      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN015P3sPN1GnzgWDedii_!!2216999100668.png",
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01JZPwwM1GnzgVdePCF_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01zshLyT1GnzgUysQea_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN017eghbc1GnzgWIdnSL_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01huQCIM1GnzgW238kw_!!2216999100668.jpg",
+    ]
+  },
+  {
     id: 10,
     title: "balabala 双11大促",
     category: "Project",
