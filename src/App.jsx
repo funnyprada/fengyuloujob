@@ -148,11 +148,29 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     span: 3, 
     displayMode: 'marquee',
     
-    image: "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01zGgs711GnzgMd6Hy7_!!2216999100668.jpg",
-    description: "Identity design for a creative co-working space in Berlin.",
+    image: "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01XW6VXf1GnzgVrhjeW_!!2216999100668.jpg",
+    description: "疫情之下的大环境经济增长缓慢。而线上愈发竞争激烈的环境下，品牌的同质化相当严重。品牌视觉力的升级显得尤为重要……差异化（difference）我们渴求着做差异化的无法被轻易复制的表达。视觉力（vision）我们想更多在品牌端去做视觉力的提升。年轻化（young）我们更多想去拥抱年轻化的人群。20 的出生率是 1963 年的 1/5。对比 14 年下降了 38%，已经不再是小孩遍地走衣服不愁卖的年代。
+",
     detailImages: [
-      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01Bbmuxg1GnzgMgsupG_!!2216999100668.png",
-      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01zGgs711GnzgMd6Hy7_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01XW6VXf1GnzgVrhjeW_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01QT4Adu1GnzgVrHYvh_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01KcGqxP1GnzgVrgb12_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01tWbsvx1GnzgWvsA7K_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01LJQNf01GnzgW3Kwf1_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01Ns5ECm1GnzgWR5yh1_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01tdLU6g1GnzgUtgVgu_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01iziPIa1GnzgW3Nxnd_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN017obvcF1GnzgW3OEQ9_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01xbAcqI1GnzgWFb3re_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN015y4Y7C1GnzgW3rfcp_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN011HSZD91GnzgUtfhmX_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01F2cLWa1GnzgVCaDK2_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01QzmYoc1GnzgW3sPS0_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01D2faTR1GnzgVrikCf_!!2216999100668.png",
+    "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01nvrqYm1GnzgWRB4rL_!!2216999100668.png",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN019jweRn1GnzgVf8d73_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01MEn1xi1GnzgWFcnxI_!!2216999100668.jpg",
+    "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN018oZ0Wy1GnzgWR5AlO_!!2216999100668.jpg",
     ]
   },
   {
