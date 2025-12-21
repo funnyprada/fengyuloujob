@@ -18,10 +18,10 @@ const SITE_CONFIG = {
   logoSize: "h-14 md:h-20", 
 
   heroText: "BLANC ORANGE", 
-  email: "hello@sebastianwolf.design", 
+  email: "623810529@qq.com", 
   socials: [
     { name: "INSTAGRAM", url: "#" },
-    { name: "LINKEDIN", url: "#" }
+    { name: "小红书", url: "https://www.xiaohongshu.com/user/profile/613c6b6d000000001f03c7f1?xsec_token=ABncPlir1q21OmeoT0AMd-s0INwnt78inj9R3TXhwPozc=&xsec_source=pc_note" }
   ],
   accentColor: "#7FFF00" // 亮绿色
 };
