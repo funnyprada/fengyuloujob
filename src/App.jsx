@@ -21,7 +21,7 @@ const SITE_CONFIG = {
   email: "623810529@qq.com", 
   socials: [
     { name: "INSTAGRAM", url: "#" },
-    { name: "小红书", url: "https://www.xiaohongshu.com/user/profile/613c6b6d000000001f03c7f1?xsec_token=ABncPlir1q21OmeoT0AMd-s0INwnt78inj9R3TXhwPozc=&xsec_source=pc_note" }
+    { name: "小红书", url: "#" }
   ],
   accentColor: "#7FFF00" // 亮绿色
 };
@@ -371,7 +371,7 @@ const Footer = () => {
             ))}
           </div>
           <p className="text-xs text-gray-500 tracking-widest uppercase">
-            © {new Date().getFullYear()} {SITE_CONFIG.name} / LONDON
+            © {new Date().getFullYear()} {SITE_CONFIG.name} / CHINA
           </p>
         </div>
       </div>
