@@ -134,6 +134,25 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     ]
   },
   {
+    id: 11,
+    title: "balabala lab",
+    category: "Project",
+    year: "2023",
+    span: 3, 
+    displayMode: 'marquee',
+    
+    image: "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01zshLyT1GnzgUysQea_!!2216999100668.jpg",
+    description: "Identity design for a creative co-working space in Berlin.",
+    detailImages: [
+     "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01wARqSj1GnzgVe8Cvo_!!2216999100668.png",
+     "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN015P3sPN1GnzgWDedii_!!2216999100668.png",
+     "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01JZPwwM1GnzgVdePCF_!!2216999100668.jpg",
+     "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01zshLyT1GnzgUysQea_!!2216999100668.jpg",
+     "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN017eghbc1GnzgWIdnSL_!!2216999100668.jpg",
+     "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01huQCIM1GnzgW238kw_!!2216999100668.jpg",
+    ]
+  },
+  {
     id: 4,
     title: "月球档案",
     category: "Project",
