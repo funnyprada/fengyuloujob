@@ -125,6 +125,7 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     year: "2025",
     span: 3, 
     displayMode: 'marquee',
+    
     image: "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01zGgs711GnzgMd6Hy7_!!2216999100668.jpg",
     description: "Identity design for a creative co-working space in Berlin.",
     detailImages: [
