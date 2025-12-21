@@ -207,6 +207,8 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     image: "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01GyvuOX1GnzgSD75Kp_!!2216999100668.png",
     description: "运用最新的ai技术，结合产品与活动视觉需求，产出真实经验的效果",
     detailImages: [
+      "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01bGU7571GnzgQLNq6C_!!2216999100668.jpg",
+      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01xwoktH1GnzgVbmSzj_!!2216999100668.jpg",
       "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01gjsKTu1GnzgQwyp5P_!!2216999100668.png",
       "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01EN8Svo1GnzgRQDGEI_!!2216999100668.png",
       "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN017JFlf21GnzgRwXvB6_!!2216999100668.png",
@@ -226,7 +228,6 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     image: "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01svU2081GnzgU98cQt_!!2216999100668.jpg",
     description: "Minimalist art direction for a high-end furniture brand, focusing on materials and light.",
     detailImages: [
-      "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01gjsKTu1GnzgQwyp5P_!!2216999100668.png",
       "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01jTTg8V1GnzgNocSYO_!!2216999100668.jpg",
       "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01aVG1Lf1GnzgS82AVA_!!2216999100668.jpg",
       "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01svU2081GnzgU98cQt_!!2216999100668.jpg",
