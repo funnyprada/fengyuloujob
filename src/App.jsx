@@ -149,7 +149,7 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     displayMode: 'marquee',
     
     image: "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01XW6VXf1GnzgVrhjeW_!!2216999100668.jpg",
-    description: "疫情之下的大环境经济增长缓慢。而线上愈发竞争激烈的环境下，品牌的同质化相当严重。品牌视觉力的升级显得尤为重要……差异化（difference）我们渴求着做差异化的无法被轻易复制的表达。视觉力（vision）我们想更多在品牌端去做视觉力的提升。年轻化（young）我们更多想去拥抱年轻化的人群。20 的出生率是 1963 年的 1/5。对比 14 年下降了 38%，已经不再是小孩遍地走衣服不愁卖的年代。",
+    description: "疫情之下的大环境经济增长缓慢。而线上愈发竞争激烈的环境下，品牌的同质化相当严重。品牌视觉力的升级显得尤为重要……差异化（difference）我们渴求着做差异化的无法被轻易复制的表达。视觉力（vision）我们想更多在品牌端去做视觉力的提升。年轻化（young）我们更多想去拥抱年轻化的人群。20 的出生率是 1963 年的 1/5。对比 14 年下降了 38%，已经不再是小孩遍地走衣服不愁卖的年代。2021年双11视觉项目，最终实现了母婴类目排名第一，项目规模超 13 亿。",
     detailImages: [
     "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01QT4Adu1GnzgVrHYvh_!!2216999100668.jpg",
     "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01KcGqxP1GnzgVrgb12_!!2216999100668.jpg",
@@ -180,7 +180,7 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     displayMode: 'marquee',
     
     image: "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01zshLyT1GnzgUysQea_!!2216999100668.jpg",
-    description: "Identity design for a creative co-working space in Berlin.",
+    description: "巴拉巴拉旗下高端支线 lab线视觉设计",
     detailImages: [
      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01wARqSj1GnzgVe8Cvo_!!2216999100668.png",
      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN015P3sPN1GnzgWDedii_!!2216999100668.png",
@@ -229,7 +229,7 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     year: "2025",
     span: 1,
     image: "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01je3Quw1GnzgRvH2Uk_!!2216999100668.jpg",
-    description: "品牌定位：自由 × 呼吸 × 去标签化AIRWISH 坚持以 “Breathe freely, grow without boundaries” 为理念，赋予女性自在穿着与真实表达的权利。我们相信，每一位女性都值得被尊重、被看见、被理解。品牌主张打破标签、摆脱束缚，以服饰作为语言，传递真实而多元的自己。每一件 AIRWISH 的作品，不仅是衣物，更是一份支持女性自我认同的 “第二层肌肤”。",
+    description: "灵感来源一 (inspiration) 流动与永恒 "有些东西，是永恒的。" 我们希望通过这些标志，将永恒的时尚与城市的韵味相结合。勒・柯布西耶 (LECORBUSIER) 是现代主义建筑。他强调建筑与环境的和谐关系，我们在设计中注重简约、线条感和空间感，同时具有流动与静态的对比，让图形 LOGO 也成为整体的一部分，与城市环境和谐共存。符号图形既是品牌字母 A 的演化，向上的箭头同时象征着进取与探索，代表着指引 AIKEN 自由与探索的方向，探索不断变化与创新的可能性。品牌哲学 Aiken, 不仅仅是一个品牌，更是人们对生活的追求与态度的体现。我们希望通过我们的设计，将都市的魅力、自由的精神、松弛的生活态度传递给每一个热爱时尚、热爱生活的人。随性自由，享受当下。",
     detailImages: [
       "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01oX2cAa1GnzgRvHZlY_!!2216999100668.jpg",
       "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01UosOgY1GnzgSC2Heq_!!2216999100668.jpg",
