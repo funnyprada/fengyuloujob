@@ -149,7 +149,7 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     displayMode: 'marquee',
     
     image: "https://img.alicdn.com/imgextra/i4/2216999100668/O1CN01XW6VXf1GnzgVrhjeW_!!2216999100668.jpg",
-    description: "疫情之下的大环境经济增长缓慢。而线上愈发竞争激烈的环境下，品牌的同质化相当严重。品牌视觉力的升级显得尤为重要……差异化（difference）我们渴求着做差异化的无法被轻易复制的表达。视觉力（vision）我们想更多在品牌端去做视觉力的提升。年轻化（young）我们更多想去拥抱年轻化的人群。20 的出生率是 1963 年的 1/5。对比 14 年下降了 38%，已经不再是小孩遍地走衣服不愁卖的年代。2021年双11视觉项目，最终实现了母婴类目排名第一，项目规模超 13 亿。",
+    description: "疫情之下的大环境经济增长缓慢。而线上愈发竞争激烈的环境下，品牌的同质化相当严重。品牌视觉力的升级显得尤为重要……差异化（difference）我们渴求着做差异化的无法被轻易复制的表达。视觉力（vision）我们想更多在品牌端去做视觉力的提升。年轻化（young）我们更多想去拥抱年轻化的人群。",
     detailImages: [
     "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN01QT4Adu1GnzgVrHYvh_!!2216999100668.jpg",
     "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01KcGqxP1GnzgVrgb12_!!2216999100668.jpg",
@@ -180,7 +180,7 @@ vivid box也在持续挖掘与探索设计美学与高品质面料的完美结�
     displayMode: 'marquee',
     
     image: "https://img.alicdn.com/imgextra/i1/2216999100668/O1CN01zshLyT1GnzgUysQea_!!2216999100668.jpg",
-    description: "巴拉巴拉旗下高端支线 lab线视觉设计",
+    description: "巴拉巴拉旗下高端支线，lab线视觉设计。",
     detailImages: [
      "https://img.alicdn.com/imgextra/i3/2216999100668/O1CN01wARqSj1GnzgVe8Cvo_!!2216999100668.png",
      "https://img.alicdn.com/imgextra/i2/2216999100668/O1CN015P3sPN1GnzgWDedii_!!2216999100668.png",
